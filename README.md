@@ -38,12 +38,6 @@ SnapMealAI is a GenAI-powered nutritionist app that analyzes food images and gen
 
 ---
 
-## 📸 Demo Screenshot
-
-![SnapMealAI UI](SnapMeal.png)
-
----
-
 ## 🧪 Accuracy & Model Reliability
 
 - Built using **Gemini 1.5 Flash**, a state-of-the-art vision-language model by Google.
@@ -125,7 +119,7 @@ This project is released under the [MIT License](LICENSE).
 
 **Debanek Banarjee**
 💼 Data Scientist | AI Enthusiast | Builder of SnapMealAI
-📫 [LinkedIn](https://linkedin.com/in/your-profile)
-🌐 [GitHub](https://github.com/your-github)
+📫 [LinkedIn](www.linkedin.com/in/debanick-banerjee)
+
 
 
