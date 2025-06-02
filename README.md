@@ -1,6 +1,9 @@
 
 # 🥗 SnapMealAI
 
+https://github.com/debanick19/SnapMealAI/blob/main/SnapMeal.png?raw=true
+
+
 SnapMealAI is a GenAI-powered nutritionist app that analyzes food images and generates a structured nutritional analysis, using Google’s Gemini 1.5 Vision-Language model. This project was built as part of the [Gen AI Exchange Bootcamp](https://cloud.google.com/) by Google Cloud and Hack2skill to showcase real-world applications of Google AI tools.
 
 ---
