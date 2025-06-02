@@ -119,7 +119,7 @@ This project is released under the [MIT License](LICENSE).
 
 **Debanek Banarjee**
 💼 Data Scientist | AI Enthusiast | Builder of SnapMealAI
-📫 [LinkedIn](www.linkedin.com/in/debanick-banerjee)
+📫 [LinkedIn](https://www.linkedin.com/in/debanick-banerjee/)
 
 
 
